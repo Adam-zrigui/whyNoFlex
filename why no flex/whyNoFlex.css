@@ -1,0 +1,44 @@
+header nav ul {
+    list-style: none;
+   
+}
+li {
+    display: inline-block;
+margin-right: 20%;
+}
+header nav {
+ background-color: green;
+margin-bottom: 50px;
+width: 800px;
+height: 30px;
+}
+.li {
+    margin: 10px;
+    margin-top: 20px;
+    color: #fff;
+    font-weight: bold;
+}
+main  img {
+    border-radius: 50%;
+}
+.sec {
+    background-color: grey;
+    height: 300px;
+}
+.sec p {
+    width: 450px;
+    position: relative;
+    left:30%;
+    bottom:270px;
+}
+table, th, td {
+    border:1px solid black;
+    margin: 10px;
+  }
+  footer {
+    background-color: green;
+  }
+  ::selection {
+    background-color: grey;
+    color: #fff;
+  }
